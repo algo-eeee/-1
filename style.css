@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:SpringGreen;
+    padding: 10px;
+}
+h1 {
+    color:#0000ff;
+    font-size:33px;
+    text-align:center;
+}
+footer{
+    background-color: blueviolet;
+    padding:13px;
+}
+footer p {
+    background-color: aquamarine;
+    padding:33
+}
+select{
+    color: bisque;
+    padding:33px;
+}
+select option{
+    background-color:#0000ff;
+    color: aqua;
+}
+.product{
+    background-color:#0000ff;
+    border-radius: 33px;
+    padding: 33px;
+    color: rgb(43, 226, 49);
+}
+nav{
+    border:13px solid blue;
+    padding:5px;
+
+}
+
+nav a {
+    color:aqua;
+    text-decoration:none; 
+    border:none;
+}
+main {
+    padding:5px;
+}
+
+h2 {
+    font-size:33px;
+    color:rgb(255, 0, 191);
+}
+
+p {
+    font-size:25px;
+}
+a {
+    font:31px;
+    color:rgb(243, 104, 227);
+    border:1px solid purple;
+    text-decoration:none;
+}
